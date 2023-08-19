@@ -1,0 +1,22 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "banescocontigo/pdf",
+	"version": "1.0.0",
+	"title": "PDF File",
+	"category": "widgets",
+	"icon": "media-document",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "blocks",
+	"editorScript": "file:../../../blocks/build/pdf.js",
+	"editorStyle": "file:../../../blocks/build/pdf.css",
+	"style": "file:../../../blocks/build/style-pdf.css",
+	"attributes": {
+		"url": {
+			"type": "string",
+			"default": ""
+		}
+	}
+}

@@ -1,0 +1,31 @@
+# Changelog
+
+## 1.0.6
+
+	- Fixed a formatting issue when invalid advanced phone field value was entered.
+
+## 1.0.5
+
+	- Improved handling of RTL languages in country list.
+
+## 1.0.4
+
+	- Added WebP versions of the flag sprites to improve performance. PNG versions of the sprites are still in place as a fallback.
+
+## 1.0.3
+
+	- Fixed issue where the country dropdown could initialize more than one time and cause the dropdown to show multiple times for a given Phone field.
+	- Updated plugin headers with correct Description and Plugin URI.
+
+## 1.0.2
+
+	- Added support for using the "Custom Validation Message" setting with Phone fields that have Advanced Phone Field enabled.
+
+## 1.0.1
+
+	- Fixed issue where the phone value could be lost on multi-page forms while navigating pages.
+	- Fixed issue with validation where the phone field would be validated even if hidden.
+
+## 1.0-beta-1
+
+	- Hello World!

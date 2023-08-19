@@ -1,0 +1,96 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "banescocontigo/three-cards",
+	"version": "1.0.0",
+	"title": "Three Cards",
+	"category": "widgets",
+	"icon": "excerpt-view",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "blocks",
+	"editorScript": "file:../../../blocks/build/three-cards.js",
+	"editorStyle": "file:../../../blocks/build/three-cards.css",
+	"style": "file:../../../blocks/build/style-three-cards.css",
+	"attributes": {
+		"paddings": {
+			"type": "object",
+			"default": {
+				"desktop": {
+					"top": "100px",
+					"bottom": "100px"
+				},
+				"mobile": {
+					"top": "50px",
+					"bottom": "50px"
+				}
+			}
+		},
+		"margins": {
+			"type": "object",
+			"default": {
+				"desktop": {
+					"top": "0px",
+					"bottom": "0px"
+				},
+				"mobile": {
+					"top": "0px",
+					"bottom": "0px"
+				}
+			}
+		},
+		"gradient": {
+			"type": "string",
+			"default": "#FFFFFF"
+		},
+		"title": {
+			"type": "string",
+			"default": "Title"
+		},
+		"items": {
+			"type": "array",
+			"default": [
+				{
+					"name": "tab1",
+					"title": "Title #1",
+					"text": "Very very very very very very very very very very very very very long description.",
+					"button": "Button",
+					"target": "/",
+					"image": {
+						"alt": "",
+						"url": "image-1.png"
+					},
+					"active": true,
+					"gradient": "linear-gradient(122.08deg, #00264C 26.97%, #18518C 68.88%)"
+				},
+				{
+					"name": "tab2",
+					"title": "Title #2",
+					"text": "Very very very very very very very very very very very very very long description.",
+					"button": "Button",
+					"target": "/",
+					"image": {
+						"alt": "",
+						"url": "image-2.png"
+					},
+					"active": false,
+					"gradient": "linear-gradient(122.08deg, #606973 26.97%, #B3B6BB 68.88%)"
+				},
+				{
+					"name": "tab3",
+					"title": "Title #3",
+					"text": "Very very very very very very very very very very very very very long description.",
+					"button": "Button",
+					"target": "/",
+					"image": {
+						"alt": "",
+						"url": "image-3.png"
+					},
+					"active": false,
+					"gradient": "linear-gradient(122.08deg, #010911 26.97%, #263545 68.88%)"
+				}
+			]
+		}
+	}
+}

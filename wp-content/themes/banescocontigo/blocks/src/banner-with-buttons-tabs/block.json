@@ -1,0 +1,245 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "banescocontigo/banner-with-buttons-tabs",
+	"version": "1.0.0",
+	"title": "Banner with buttons tabs",
+	"category": "widgets",
+	"icon": "align-wide",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "blocks",
+	"editorScript": "file:../../../blocks/build/banner-with-buttons-tabs.js",
+	"editorStyle": "file:../../../blocks/build/banner-with-buttons-tabs.css",
+	"style": "file:../../../blocks/build/style-banner-with-buttons-tabs.css",
+	"attributes": {
+		"paddings": {
+			"type": "object",
+			"default": {
+				"desktop": {
+					"top": "100px",
+					"bottom": "100px"
+				},
+				"mobile": {
+					"top": "50px",
+					"bottom": "50px"
+				}
+			}
+		},
+		"margins": {
+			"type": "object",
+			"default": {
+				"desktop": {
+					"top": "0px",
+					"bottom": "0px"
+				},
+				"mobile": {
+					"top": "0px",
+					"bottom": "0px"
+				}
+			}
+		},
+		"gradient": {
+			"type": "string",
+			"default": "#FFFFFF"
+		},
+		"title": {
+			"type": "string",
+			"default": "Title"
+		},
+		"title1": {
+			"type": "string",
+			"default": "Title1"
+		},
+		"title2": {
+			"type": "string",
+			"default": "Title2"
+		},
+		"title3": {
+			"type": "string",
+			"default": ""
+		},
+		"items1": {
+			"type": "array",
+			"default": [
+				{
+					"name": "tab1",
+					"title": "Title #1",
+					"description": "Description",
+					"button": "",
+					"target": "",
+					"widths": {
+						"title": "290px",
+						"mTitle": "100%",
+						"text": "290px",
+						"mText": "100%"
+					},
+					"image": {
+						"alt": "",
+						"url": "card.svg"
+					}
+				},
+				{
+					"name": "tab2",
+					"title": "Title #2",
+					"description": "Description",
+					"button": "",
+					"target": "",
+					"widths": {
+						"title": "290px",
+						"mTitle": "100%",
+						"text": "290px",
+						"mText": "100%"
+					},
+					"image": {
+						"alt": "",
+						"url": "pdf.svg"
+					}
+				},
+				{
+					"name": "tab3",
+					"title": "Title #3",
+					"description": "Description",
+					"button": "",
+					"target": "",
+					"widths": {
+						"title": "290px",
+						"mTitle": "100%",
+						"text": "290px",
+						"mText": "100%"
+					},
+					"image": {
+						"alt": "",
+						"url": "page.svg"
+					}
+				}
+			]
+		},
+		"items2": {
+			"type": "array",
+			"default": [
+				{
+					"name": "tab1",
+					"title": "Title #1",
+					"description": "Description",
+					"button": "",
+					"target": "",
+					"widths": {
+						"title": "290px",
+						"mTitle": "100%",
+						"text": "290px",
+						"mText": "100%"
+					},
+					"image": {
+						"alt": "",
+						"url": "card.svg"
+					}
+				},
+				{
+					"name": "tab2",
+					"title": "Title #2",
+					"description": "Description",
+					"button": "",
+					"target": "",
+					"widths": {
+						"title": "290px",
+						"mTitle": "100%",
+						"text": "290px",
+						"mText": "100%"
+					},
+					"image": {
+						"alt": "",
+						"url": "pdf.svg"
+					}
+				},
+				{
+					"name": "tab3",
+					"title": "Title #3",
+					"description": "Description",
+					"button": "",
+					"target": "",
+					"widths": {
+						"title": "290px",
+						"mTitle": "100%",
+						"text": "290px",
+						"mText": "100%"
+					},
+					"image": {
+						"alt": "",
+						"url": "page.svg"
+					}
+				}
+			]
+		},
+		"items3": {
+			"type": "array",
+			"default": []
+		},
+		"extra1": {
+			"type": "object",
+			"default": {
+				"button": "",
+				"content": ""
+			}
+		},
+		"initialNoOpened1": {
+			"type": "boolean",
+			"default": false
+		},
+		"extra2": {
+			"type": "object",
+			"default": {
+				"button": "",
+				"content": ""
+			}
+		},
+		"initialNoOpened2": {
+			"type": "boolean",
+			"default": false
+		},
+		"extra3": {
+			"type": "object",
+			"default": {
+				"button": "",
+				"content": ""
+			}
+		},
+		"initialNoOpened3": {
+			"type": "boolean",
+			"default": false
+		},
+		"outlinedButton": {
+			"type": "string",
+			"default": "Outlined button"
+		},
+		"outlinedButtonTarget": {
+			"type": "string",
+			"default": "/"
+		},
+		"primaryButton": {
+			"type": "string",
+			"default": "Primary button"
+		},
+		"primaryButtonTarget": {
+			"type": "string",
+			"default": "/"
+		},
+		"extraText": {
+			"type": "string",
+			"default": ""
+		},
+		"extraLink": {
+			"type": "string",
+			"default": ""
+		},
+		"extraLinkTarget": {
+			"type": "string",
+			"default": ""
+		},
+		"bigSpacing": {
+			"type": "boolean",
+			"default": false
+		}
+	}
+}

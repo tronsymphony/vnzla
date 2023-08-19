@@ -1,0 +1,55 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "banescocontigo/collections",
+	"version": "1.0.0",
+	"title": "Collections",
+	"category": "widgets",
+	"icon": "database",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "blocks",
+	"editorScript": "file:../../../blocks/build/collections.js",
+	"editorStyle": "file:../../../blocks/build/collections.css",
+	"style": "file:../../../blocks/build/style-collections.css",
+	"attributes": {
+		"paddings": {
+			"type": "object",
+			"default": {
+				"desktop": {
+					"top": "100px",
+					"bottom": "100px"
+				},
+				"mobile": {
+					"top": "50px",
+					"bottom": "50px"
+				}
+			}
+		},
+		"margins": {
+			"type": "object",
+			"default": {
+				"desktop": {
+					"top": "0px",
+					"bottom": "0px"
+				},
+				"mobile": {
+					"top": "0px",
+					"bottom": "0px"
+				}
+			}
+		},
+		"gradient": {
+			"type": "string",
+			"default": "#FFFFFF"
+		},
+		"title": {
+			"type": "object",
+			"default": {
+				"desktop": "Title",
+				"mobile": ""
+			}
+		}
+	}
+}

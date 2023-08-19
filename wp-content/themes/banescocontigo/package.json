@@ -1,0 +1,32 @@
+{
+  "name": "banescocontigo",
+  "version": "1.0.0",
+  "author": "Max Marienko",
+  "private": true,
+  "devDependencies": {
+    "@wordpress/block-editor": "^11.3.0",
+    "@wordpress/blocks": "^12.3.0",
+    "@wordpress/components": "^23.3.0",
+    "@wordpress/scripts": "^25.3.0",
+    "@wordpress/server-side-render": "^4.3.0",
+    "dir-archiver": "^1.1.1",
+    "node-sass": "^7.0.1"
+  },
+  "scripts": {
+    "watch": "node-sass assets/styles/ -o ./ --source-map true --output-style expanded --indent-type tab --indent-width 1 -w",
+    "watch-pages": "node-sass assets/styles/pages/ -o ./assets/styles/pages/ --source-map true --output-style expanded --indent-type tab --indent-width 1 -w",
+    "compile:css": "node-sass assets/styles/ -o ./ && stylelint '*.css' --fix || true && stylelint '*.css' --fix",
+    "lint:scss": "wp-scripts lint-style 'assets/styles/**/*.scss'",
+    "lint:js": "wp-scripts lint-js 'blocks/src/**/*.js'",
+    "packages-update": "wp-scripts packages-update",
+    "start": "wp-scripts start",
+    "bundle": "dir-archiver --src . --dest ../banescocontigo.zip --exclude .DS_Store .stylelintrc.json .eslintrc .git .gitattributes .github .gitignore README.md composer.json composer.lock node_modules vendor package-lock.json package.json .travis.yml phpcs.xml.dist sass style.css.map yarn.lock"
+  },
+  "prettier": {
+    "printWidth": 110,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "spaceWidth": 2,
+    "semi": false
+  }
+}

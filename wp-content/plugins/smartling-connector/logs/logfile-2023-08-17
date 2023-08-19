@@ -1,0 +1,372 @@
+[2023-08-17 00:07:45] 64dd64d192604 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 00:07:45] 64dd64d192604 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 00:07:45] 64dd64d192604 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 00:07:46] 64dd64d192604 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 00:07:46] 64dd64d25f040 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 00:07:46] 64dd64d25f040 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 00:07:46] 64dd64d25f040 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 00:07:46] 64dd64d25f040 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 00:08:44] 64dd650c1ea10 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 00:08:44] 64dd650c1ea10 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 00:08:44] 64dd650c1ea10 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 00:08:44] 64dd650c1ea10 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 00:10:43] 64dd6583d3d1b CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 00:10:43] 64dd6583d3d1b WARNING: Cron doesn't seem to be configured.
+[2023-08-17 00:10:43] 64dd6583d3d1b DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 00:10:44] 64dd6583d3d1b ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 00:10:44] 64dd658458d92 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 00:10:44] 64dd658458d92 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 00:10:44] 64dd658458d92 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 00:10:44] 64dd658458d92 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 00:12:43] 64dd65fbc9a41 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 00:12:43] 64dd65fbc9a41 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 00:12:43] 64dd65fbc9a41 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 00:12:44] 64dd65fbc9a41 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 00:14:43] 64dd6673cf75b CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 00:14:43] 64dd6673cf75b WARNING: Cron doesn't seem to be configured.
+[2023-08-17 00:14:43] 64dd6673cf75b DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 00:14:44] 64dd6673cf75b ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 00:16:43] 64dd66ebc8351 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 00:16:43] 64dd66ebc8351 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 00:16:43] 64dd66ebc8351 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 00:16:44] 64dd66ebc8351 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 00:16:44] 64dd66ec3644a CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 00:16:44] 64dd66ec3644a WARNING: Cron doesn't seem to be configured.
+[2023-08-17 00:16:44] 64dd66ec3644a DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 00:16:44] 64dd66ec3644a ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:28:06] 64dd77a6b21d9 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:28:06] 64dd77a6b21d9 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:28:06] 64dd77a6b21d9 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:28:12] 64dd77a6b21d9 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:28:57] 64dd77d9b0382 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:28:57] 64dd77d9b0382 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:28:57] 64dd77d9b0382 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:28:57] 64dd77d9b0382 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:30:34] 64dd783a46fcf CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:30:34] 64dd783a46fcf WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:30:34] 64dd783a46fcf DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:30:34] 64dd783a46fcf ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:30:35] 64dd783b0943d CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:30:35] 64dd783b0943d WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:30:35] 64dd783b0943d DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:30:35] 64dd783b0943d ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:30:36] 64dd783c6b36f CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:30:36] 64dd783c6b36f WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:30:36] 64dd783c6b36f DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:30:36] 64dd783c6b36f ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:30:38] 64dd783e7c425 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:30:38] 64dd783e7c425 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:30:38] 64dd783e7c425 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:30:39] 64dd783e7c425 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:30:40] 64dd784094b81 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:30:40] 64dd784094b81 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:30:40] 64dd784094b81 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:30:40] 64dd784094b81 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:31:16] 64dd7864e8291 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:31:16] 64dd7864e8291 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:31:16] 64dd7864e8291 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:31:16] 64dd7864eb59c CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:31:16] 64dd7864eb59c WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:31:16] 64dd7864eb59c DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:31:17] 64dd78650fd5a CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:31:17] 64dd78650fd5a WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:31:17] 64dd78650fd5a DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:31:17] 64dd7864e8291 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:31:17] 64dd7864eb59c ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:31:17] 64dd78650fd5a ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:31:27] 64dd786fbba7d CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:31:27] 64dd786fbba7d WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:31:27] 64dd786fbba7d DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:31:27] 64dd786fbba7d ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:31:29] 64dd78714c559 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:31:29] 64dd78714c559 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:31:29] 64dd78714c559 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:31:29] 64dd787150e85 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:31:29] 64dd787150e85 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:31:29] 64dd787150e85 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:31:29] 64dd78714c559 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:31:29] 64dd787150e85 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:31:33] 64dd787592a17 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:31:33] 64dd787592a17 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:31:33] 64dd787592a17 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:31:33] 64dd787592a17 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:31:34] 64dd787679647 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:31:34] 64dd787679647 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:31:34] 64dd787679647 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:31:34] 64dd787679647 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:31:39] 64dd787b058ba CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:31:39] 64dd787b058ba WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:31:39] 64dd787b058ba DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:31:39] 64dd787b058ba ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:31:40] 64dd787c91a63 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:31:40] 64dd787c91a63 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:31:40] 64dd787c91a63 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:31:40] 64dd787c91a63 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:32:34] 64dd78b266fbd CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:32:34] 64dd78b266fbd WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:32:34] 64dd78b266fbd DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:32:34] 64dd78b266fbd ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:34:35] 64dd792b5fc47 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:34:35] 64dd792b5fc47 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:34:35] 64dd792b5fc47 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:34:35] 64dd792b5fc47 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:35:58] 64dd797e8f20c CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:35:58] 64dd797e8f20c WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:35:58] 64dd797e8f20c DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:35:59] 64dd797e8f20c ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:36:36] 64dd79a448218 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:36:36] 64dd79a448218 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:36:36] 64dd79a448218 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:36:36] 64dd79a448218 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:37:37] 64dd79e1c8180 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:37:37] 64dd79e1c8180 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:37:37] 64dd79e1c8180 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:37:38] 64dd79e1c8180 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:39:38] 64dd7a5a5d73b CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:39:38] 64dd7a5a5d73b WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:39:38] 64dd7a5a5d73b DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:39:38] 64dd7a5a5d73b ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:41:39] 64dd7ad358c71 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:41:39] 64dd7ad358c71 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:41:39] 64dd7ad358c71 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:41:39] 64dd7ad358c71 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:41:40] 64dd7ad400606 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:41:40] 64dd7ad400606 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:41:40] 64dd7ad400606 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:41:40] 64dd7ad400606 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:43:40] 64dd7b4c40400 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:43:40] 64dd7b4c40400 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:43:40] 64dd7b4c40400 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:43:40] 64dd7b4c40400 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:45:41] 64dd7bc54c455 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:45:41] 64dd7bc54c455 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:45:41] 64dd7bc54c455 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:45:41] 64dd7bc54c455 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:45:41] 64dd7bc5d6d9d CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:45:41] 64dd7bc5d6d9d WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:45:41] 64dd7bc5d6d9d DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:45:41] 64dd7bc5d6d9d ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:47:42] 64dd7c3e4f118 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:47:42] 64dd7c3e4f118 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:47:42] 64dd7c3e4f118 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:47:42] 64dd7c3e4f118 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:53:09] 64dd7d85ef3bd CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:53:09] 64dd7d85ef3bd WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:53:09] 64dd7d85ef3bd DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:53:10] 64dd7d85ef3bd ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 01:58:42] 64dd7ed2e50d0 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 01:58:42] 64dd7ed2e50d0 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 01:58:42] 64dd7ed2e50d0 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 01:58:43] 64dd7ed2e50d0 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:00:05] 64dd7f25bc9b1 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:00:05] 64dd7f25bc9b1 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:00:05] 64dd7f25bc9b1 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:00:06] 64dd7f25bc9b1 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:02:06] 64dd7f9e72f3e CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:02:06] 64dd7f9e72f3e WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:02:06] 64dd7f9e72f3e DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:02:06] 64dd7f9e72f3e ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:02:07] 64dd7f9f1db6f CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:02:07] 64dd7f9f1db6f WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:02:07] 64dd7f9f1db6f DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:02:07] 64dd7f9f1db6f ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:04:07] 64dd801786cec CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:04:07] 64dd801786cec WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:04:07] 64dd801786cec DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:04:07] 64dd801786cec ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:06:08] 64dd809043118 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:06:08] 64dd809043118 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:06:08] 64dd809043118 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:06:08] 64dd809043118 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:06:08] 64dd8090cb1ec CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:06:08] 64dd8090cb1ec WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:06:08] 64dd8090cb1ec DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:06:08] 64dd8090cb1ec ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:06:59] 64dd80c30ad40 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:06:59] 64dd80c30ad40 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:06:59] 64dd80c30ad40 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:06:59] 64dd80c30ad40 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:07:00] 64dd80c43fa2b CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:07:00] 64dd80c43fa2b WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:07:00] 64dd80c43fa2b DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:07:00] 64dd80c43fa2b ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:07:09] 64dd80cd0e731 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:07:09] 64dd80cd0e731 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:07:09] 64dd80cd0e731 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:07:09] 64dd80cd0e731 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:09:10] 64dd8146a5e28 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:09:10] 64dd8146a5e28 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:09:10] 64dd8146a5e28 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:09:11] 64dd8146a5e28 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:11:25] 64dd81cd636d5 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:11:25] 64dd81cd636d5 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:11:25] 64dd81cd636d5 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:11:29] 64dd81cd636d5 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:11:30] 64dd81d210b8c CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:11:30] 64dd81d210b8c WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:11:30] 64dd81d210b8c DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:11:30] 64dd81d210b8c ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:13:12] 64dd82383c07f CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:13:12] 64dd82383c07f WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:13:12] 64dd82383c07f DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:13:12] 64dd82383c07f ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:15:13] 64dd82b13a83e CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:15:13] 64dd82b13a83e WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:15:13] 64dd82b13a83e DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:15:13] 64dd82b13a83e ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:15:48] 64dd82d4c1af4 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:15:48] 64dd82d4c1af4 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:15:48] 64dd82d4c1af4 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:15:49] 64dd82d4c1af4 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:33:58] 64dd87163d609 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:33:58] 64dd87163d609 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:33:58] 64dd87163d609 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:33:58] 64dd87163d609 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:33:59] 64dd87173e511 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:33:59] 64dd87173e511 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:33:59] 64dd87173e511 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:33:59] 64dd87173e511 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:35:58] 64dd878e43b23 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:35:58] 64dd878e43b23 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:35:58] 64dd878e43b23 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:35:58] 64dd878e43b23 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:35:58] 64dd878ecfe31 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:35:58] 64dd878ecfe31 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:35:58] 64dd878ecfe31 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:35:58] 64dd878ecfe31 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:37:59] 64dd8807390b3 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:37:59] 64dd8807390b3 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:37:59] 64dd8807390b3 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:37:59] 64dd8807390b3 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:40:01] 64dd88812fba6 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:40:01] 64dd88812fba6 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:40:01] 64dd88812fba6 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:40:01] 64dd88812fba6 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:42:08] 64dd89002e577 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:42:08] 64dd89002e577 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:42:08] 64dd89002e577 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:42:20] 64dd89002e577 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:42:35] 64dd891bea49f CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:42:35] 64dd891bea49f WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:42:36] 64dd891bea49f DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:42:41] 64dd891bea49f ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:43:33] 64dd8955d077b CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:43:33] 64dd8955d077b WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:43:33] 64dd8955d077b DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:43:34] 64dd8955d077b ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:45:32] 64dd89cc43a6c CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:45:32] 64dd89cc43a6c WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:45:32] 64dd89cc43a6c DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:45:32] 64dd89cc43a6c ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:45:46] 64dd89da40c95 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:45:46] 64dd89da40c95 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:45:46] 64dd89da40c95 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:45:46] 64dd89da40c95 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 02:47:33] 64dd8a45e5c06 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 02:47:33] 64dd8a45e5c06 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 02:47:33] 64dd8a45e5c06 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 02:47:34] 64dd8a45e5c06 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 03:06:14] 64dd8ea69314a CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 03:06:14] 64dd8ea69314a WARNING: Cron doesn't seem to be configured.
+[2023-08-17 03:06:14] 64dd8ea69314a DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 03:06:14] 64dd8ea69314a ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 03:06:15] 64dd8ea77e3fb CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 03:06:15] 64dd8ea77e3fb WARNING: Cron doesn't seem to be configured.
+[2023-08-17 03:06:15] 64dd8ea77e3fb DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 03:06:15] 64dd8ea77e3fb ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 03:06:15] 64dd8ea7bee87 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 03:06:15] 64dd8ea7bee87 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 03:06:15] 64dd8ea7bee87 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 03:06:15] 64dd8ea7bee87 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 04:12:51] 64dd9e43c999f CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 04:12:51] 64dd9e43c999f WARNING: Cron doesn't seem to be configured.
+[2023-08-17 04:12:51] 64dd9e43c999f DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 04:12:52] 64dd9e43c999f ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 04:43:03] 64dda55754225 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 04:43:03] 64dda55754225 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 04:43:03] 64dda55754225 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 04:43:03] 64dda55754225 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 04:45:45] 64dda5f935319 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 04:45:45] 64dda5f935319 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 04:45:45] 64dda5f935319 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 04:45:45] 64dda5f935319 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 04:51:11] 64dda73f90a70 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 04:51:11] 64dda73f90a70 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 04:51:11] 64dda73f90a70 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 04:51:11] 64dda73f90a70 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 04:55:36] 64dda848c29c9 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 04:55:36] 64dda848c29c9 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 04:55:36] 64dda848c29c9 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 04:55:36] 64dda848c29c9 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 04:56:59] 64dda89b76c28 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 04:56:59] 64dda89b76c28 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 04:56:59] 64dda89b76c28 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 04:56:59] 64dda89b76c28 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 05:06:56] 64ddaaf0c3ab0 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 05:06:56] 64ddaaf0c3ab0 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 05:06:56] 64ddaaf0c3ab0 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 05:06:57] 64ddaaf0c3ab0 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 05:06:57] 64ddaaf18edd8 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 05:06:57] 64ddaaf18edd8 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 05:06:57] 64ddaaf18edd8 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 05:06:57] 64ddaaf18edd8 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 05:07:02] 64ddaaf6aca2a CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 05:07:02] 64ddaaf6aca2a WARNING: Cron doesn't seem to be configured.
+[2023-08-17 05:07:02] 64ddaaf6aca2a DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 05:07:02] 64ddaaf6aca2a ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 05:07:04] 64ddaaf86013a CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 05:07:04] 64ddaaf86013a WARNING: Cron doesn't seem to be configured.
+[2023-08-17 05:07:04] 64ddaaf86013a DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 05:07:04] 64ddaaf86013a ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 05:07:05] 64ddaaf95534f CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 05:07:05] 64ddaaf95534f WARNING: Cron doesn't seem to be configured.
+[2023-08-17 05:07:05] 64ddaaf95534f DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 05:07:05] 64ddaaf95534f ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 05:07:56] 64ddab2cebc34 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 05:07:56] 64ddab2cebc34 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 05:07:56] 64ddab2cebc34 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 05:07:57] 64ddab2cebc34 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 05:09:57] 64ddaba5dfda3 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 05:09:57] 64ddaba5dfda3 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 05:09:57] 64ddaba5dfda3 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 05:09:58] 64ddaba5dfda3 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 05:11:17] 64ddabf5c51cd CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 05:11:17] 64ddabf5c51cd WARNING: Cron doesn't seem to be configured.
+[2023-08-17 05:11:17] 64ddabf5c51cd DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 05:11:18] 64ddabf5c51cd ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 05:11:59] 64ddac1f20677 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 05:11:59] 64ddac1f20677 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 05:11:59] 64ddac1f20677 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 05:11:59] 64ddac1f20677 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 05:14:00] 64ddac9820d20 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 05:14:00] 64ddac9820d20 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 05:14:00] 64ddac9820d20 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 05:14:00] 64ddac9820d20 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 05:16:01] 64ddad1126d60 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 05:16:01] 64ddad1126d60 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 05:16:01] 64ddad1126d60 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 05:16:01] 64ddad1126d60 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 05:16:01] 64ddad11bd172 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 05:16:01] 64ddad11bd172 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 05:16:01] 64ddad11bd172 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 05:16:01] 64ddad11bd172 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 23:33:22] 64deae4254cd7 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 23:33:22] 64deae4254cd7 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 23:33:22] 64deae4254cd7 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 23:33:22] 64deae4254cd7 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 23:33:22] 64deae42dc911 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 23:33:22] 64deae42dc911 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 23:33:22] 64deae42dc911 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 23:33:22] 64deae42dc911 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 23:33:23] 64deae435c86f CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 23:33:23] 64deae435c86f WARNING: Cron doesn't seem to be configured.
+[2023-08-17 23:33:23] 64deae435c86f DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 23:33:23] 64deae435c86f ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 23:33:23] 64deae4373cb4 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 23:33:23] 64deae4373cb4 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 23:33:23] 64deae4373cb4 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 23:33:23] 64deae4373cb4 ERROR: Required WordPress function (get_sites) was not loaded.
+[2023-08-17 23:35:21] 64deaeb9c6766 CRITICAL: Boot :: No active smartling configuration profiles found. Please create at least one on <a href="http://vnzla.test/wp-admin/admin.php?page=smartling_configuration_profile_list">settings page</a>
+[2023-08-17 23:35:21] 64deaeb9c6766 WARNING: Cron doesn't seem to be configured.
+[2023-08-17 23:35:21] 64deaeb9c6766 DEBUG: A new version <strong>3.4.2</strong> of Smartling Connector plugin is available for download. Current version is 3.4.1. Please update plugin <a href="http://vnzla.test/wp-admin/network/plugins.php?s=smartling+connector&plugin_status=all">here</a>.
+[2023-08-17 23:35:22] 64deaeb9c6766 ERROR: Required WordPress function (get_sites) was not loaded.
